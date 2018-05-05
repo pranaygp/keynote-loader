@@ -1,0 +1,13 @@
+{
+  "name": "keynote-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader for apple \".key\" files",
+  "main": "index.js",
+  "author": "Pranay Prakash <pranay.gp@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "loader-utils": "^1.1.0",
+    "schema-utils": "^0.4.5"
+  }
+}
