@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack && cp index.html dist/",
     "start": "open dist/index.html"
   },
   "devDependencies": {
